@@ -1,6 +1,6 @@
 ﻿' @author: NickElTopoQueGira
 
-' Note del tizio che scrive il programma: 
+' Note del tizio che scrive il programma(Ovvero io): 
 ' La fase di ricerca delle porte all'inizio del programma la si puo' automatizzare con un timer
 ' in questo caso non e' stato fatto, e' l'utente che deve cliccare sul pulsante per ricaricare l'elenco
 
