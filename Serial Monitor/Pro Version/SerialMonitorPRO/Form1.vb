@@ -185,7 +185,7 @@ Public Class Form1
     Private Sub saveLogBtn_Click(sender As Object, e As EventArgs) Handles saveLogBtn.Click
 
         If outputTxt.Text.Length > 0 Then
-            SaveFileDialog1.DefaultExt = ".txt"
+            'SaveFileDialog1.DefaultExt = ".txt"
             SaveFileDialog1.ShowDialog()
             System.IO.File.WriteAllText(SaveFileDialog1.FileName, outputTxt.Text)
         End If
