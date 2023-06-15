@@ -233,6 +233,8 @@ Partial Class Form1
         Me.outputTxt.Location = New System.Drawing.Point(6, 19)
         Me.outputTxt.Multiline = True
         Me.outputTxt.Name = "outputTxt"
+        Me.outputTxt.ReadOnly = True
+        Me.outputTxt.ScrollBars = System.Windows.Forms.ScrollBars.Both
         Me.outputTxt.Size = New System.Drawing.Size(687, 387)
         Me.outputTxt.TabIndex = 0
         '
